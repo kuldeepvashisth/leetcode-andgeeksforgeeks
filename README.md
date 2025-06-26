@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -17,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
