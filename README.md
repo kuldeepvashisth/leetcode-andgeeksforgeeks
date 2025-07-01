@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0496-next-greater-element-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0496-next-greater-element-i) |
 ## Math
@@ -70,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0496-next-greater-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
