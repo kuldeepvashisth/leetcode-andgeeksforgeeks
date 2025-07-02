@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/1046-max-consecutive-ones-iii) |
