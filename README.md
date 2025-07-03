@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0496-next-greater-element-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/1046-max-consecutive-ones-iii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0556-next-greater-element-iii) |
 ## Binary Search
