@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0556-next-greater-element-iii) |
 ## String
