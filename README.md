@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -98,4 +99,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/1034-subarrays-with-k-different-integers) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
