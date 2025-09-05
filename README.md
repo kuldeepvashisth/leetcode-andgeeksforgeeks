@@ -107,8 +107,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0144-binary-tree-preorder-traversal) |
+| [0547-number-of-provinces](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0144-binary-tree-preorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
