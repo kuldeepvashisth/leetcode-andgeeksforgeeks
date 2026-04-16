@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0556-next-greater-element-iii) |
 ## String
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
