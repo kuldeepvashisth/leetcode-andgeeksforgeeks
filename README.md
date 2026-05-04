@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/1046-max-consecutive-ones-iii) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0556-next-greater-element-iii) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0064-minimum-path-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Backtracking
 |  |
 | ------- |
