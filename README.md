@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0540-single-element-in-a-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0396-rotate-function) |
 | [0556-next-greater-element-iii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0556-next-greater-element-iii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## String
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0070-climbing-stairs) |
+| [0396-rotate-function](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0396-rotate-function) |
 ## Combinatorics
 |  |
 | ------- |
