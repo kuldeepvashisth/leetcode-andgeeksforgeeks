@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
