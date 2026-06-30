@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/1046-max-consecutive-ones-iii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
