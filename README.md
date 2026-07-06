@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/1046-max-consecutive-ones-iii) |
+| [1288-remove-covered-intervals](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/1288-remove-covered-intervals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kuldeepvashisth/leetcodeandgfg/tree/master/0268-missing-number) |
+| [1288-remove-covered-intervals](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/1288-remove-covered-intervals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepvashisth/leetcode-andgeeksforgeeks/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Sliding Window
 |  |
